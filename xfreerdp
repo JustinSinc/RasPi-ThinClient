@@ -1,0 +1,1 @@
+xinit /usr/bin/xfreerdp /cert-ignore /d:w9721domain /u:<username> /p:<password> /g:<gateway> /f /v:<workstation> -- :1
